@@ -1,0 +1,48 @@
+{
+    "name": "Karen Smith",
+    "dateOfBirth": "1983-01-01",
+    "licenseNumber": "101",
+    "vehicles": [
+        {
+            "make": "Ford",
+            "model": "Mondeo",
+            "year": "2013-01-01",
+            "vin": "abc123"
+        }
+    ],
+    "coverages": {
+        "propertyDamage": {
+            "limits": [
+                100000
+            ]
+        },
+        "collision": {
+            "deductable": 500
+        },
+        "bodilyInjuryPerPerson": {
+            "limits": [
+                250000
+            ]
+        },
+        "bodilyInjuryPerAccident": {
+            "limits": [
+                500000
+            ]
+        },
+        "uninsuredMotoristPerPerson": {
+            "limits": []
+        },
+        "uninsuredMotoristPerAccident": {
+            "limits": []
+        },
+        "underinsuredMotoristPerPerson": {
+            "limits": []
+        },
+        "underinsuredMotoristPerAccident": {
+            "limits": []
+        },
+        "comprehensive": {
+            "deductable": 500
+        }
+    }
+}

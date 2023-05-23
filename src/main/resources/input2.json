@@ -1,0 +1,52 @@
+{
+    "name": "Terry Crews",
+    "dateOfBirth": "2002-01-01",
+    "licenseNumber": "202",
+    "vehicles": [
+        {
+            "make": "Ford",
+            "model": "Mustang",
+            "year": "2020-01-01",
+            "vin": "def456"
+        }
+    ],
+    "coverages": {
+        "propertyDamage": {
+            "limits": [
+                200000
+            ]
+        },
+        "collision": {
+            "deductable": 250
+        },
+        "bodilyInjuryPerPerson": {
+            "limits": [
+                100000
+            ]
+        },
+        "bodilyInjuryPerAccident": {
+            "limits": [
+                200000
+            ]
+        },
+        "uninsuredMotoristPerPerson": {
+            "limits": []
+        },
+        "uninsuredMotoristPerAccident": {
+            "limits": []
+        },
+        "underinsuredMotoristPerPerson": {
+            "limits": [
+                100000
+            ]
+        },
+        "underinsuredMotoristPerAccident": {
+            "limits": [
+                200000
+            ]
+        },
+        "comprehensive": {
+            "deductable": 250
+        }
+    }
+}

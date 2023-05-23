@@ -1,0 +1,56 @@
+{
+    "name": "John Doe",
+    "dateOfBirth": "1968-01-01",
+    "licenseNumber": "303",
+    "vehicles": [
+        {
+            "make": "Toyota",
+            "model": "Supra",
+            "year": "2003-01-01",
+            "vin": "ghi789"
+        }
+    ],
+    "coverages": {
+        "propertyDamage": {
+            "limits": [
+                500000
+            ]
+        },
+        "collision": {
+            "deductable": 1000
+        },
+        "bodilyInjuryPerPerson": {
+            "limits": [
+                250000
+            ]
+        },
+        "bodilyInjuryPerAccident": {
+            "limits": [
+                500000
+            ]
+        },
+        "uninsuredMotoristPerPerson": {
+            "limits": [
+                250000
+            ]
+        },
+        "uninsuredMotoristPerAccident": {
+            "limits": [
+                500000
+            ]
+        },
+        "underinsuredMotoristPerPerson": {
+            "limits": [
+                250000
+            ]
+        },
+        "underinsuredMotoristPerAccident": {
+            "limits": [
+                500000
+            ]
+        },
+        "comprehensive": {
+            "deductable": 1000
+        }
+    }
+}
