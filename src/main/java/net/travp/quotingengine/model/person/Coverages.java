@@ -2,6 +2,7 @@ package net.travp.quotingengine.model.person;
 
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 import net.travp.quotingengine.model.person.deductable.Collision;
 import net.travp.quotingengine.model.person.deductable.Comprehensive;
 import net.travp.quotingengine.model.person.limit.BodilyInjuryPerAccident;
@@ -14,6 +15,7 @@ import net.travp.quotingengine.model.person.limit.UninsuredMotoristPerPerson;
 
 @Getter
 @Setter
+@ToString
 public class Coverages {
     private PropertyDamage propertyDamage;
     private Collision collision;

@@ -17,7 +17,7 @@
             ]
         },
         "collision": {
-            "deductable": 500
+            "deductible": 500
         },
         "bodilyInjuryPerPerson": {
             "limits": [
@@ -42,7 +42,7 @@
             "limits": []
         },
         "comprehensive": {
-            "deductable": 500
+            "deductible": 500
         }
     }
 }
